@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: pink;
+}
+
+.calculator {
+    width: 200px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 24px;
+    padding: 10px;
+    margin-left: 37rem;
+    margin-top: 2rem;
+    border: 10px solid black;
+}
+
+.display {
+    background-color: #fff;
+    border: 3px solid black;
+    border-radius: 27px;
+    padding: 5px;
+    text-align: right;
+    margin-bottom: 5px;
+    box-shadow: -2px 6px 7px lightblue inset;
+}
+
+.display p {
+  margin: 0;
+}
+
+.buttons button {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 2px;
+  cursor: pointer;
+  background-color: #ccc;
+  box-shadow: 5px 10px #888888;
+}
+
+.buttons button:hover {
+  background-color: #ddd;
+}
+.buttons{
+background-color: lightblue;
+ border-radius: 11px;
+ height: 229px;
+
+}
+h2{
+	margin-left: 556px;
+
+}
